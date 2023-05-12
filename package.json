@@ -1,0 +1,23 @@
+{
+  "name": "@fairy-inc/tw-vouncher",
+  "version": "0.0.1",
+  "description": "เติมเงิน Truewallet ด้วยซองอั่งเปา",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chelos",
+  "license": "ISC",
+  "dependencies": {
+    "undici": "^5.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fairy-Inc/tw-vouncher"
+  },
+  "bugs": {
+    "url": "https://github.com/Fairy-Inc/tw-vouncher/issues"
+  },
+  "homepage": "https://github.com/Fairy-Inc/tw-vouncher#readme"
+}
