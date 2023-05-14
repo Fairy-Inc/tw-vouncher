@@ -1,12 +1,12 @@
 {
   "name": "@fairy-inc/tw-vouncher",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "เติมเงิน Truewallet ด้วยซองอั่งเปา",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Chelos",
+  "author": "AllGameRM",
   "license": "ISC",
   "dependencies": {
     "undici": "^5.0.0"
